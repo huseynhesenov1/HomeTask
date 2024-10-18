@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\StudentTask\StudentTask\bin\Debug\net8.0\StudentTask.exe
+C:\Users\ACER\source\repos\StudentTask\StudentTask\bin\Debug\net8.0\StudentTask.deps.json
+C:\Users\ACER\source\repos\StudentTask\StudentTask\bin\Debug\net8.0\StudentTask.runtimeconfig.json
+C:\Users\ACER\source\repos\StudentTask\StudentTask\bin\Debug\net8.0\StudentTask.dll
+C:\Users\ACER\source\repos\StudentTask\StudentTask\bin\Debug\net8.0\StudentTask.pdb
+C:\Users\ACER\source\repos\StudentTask\StudentTask\obj\Debug\net8.0\StudentTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\StudentTask\StudentTask\obj\Debug\net8.0\StudentTask.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\StudentTask\StudentTask\obj\Debug\net8.0\StudentTask.AssemblyInfo.cs
+C:\Users\ACER\source\repos\StudentTask\StudentTask\obj\Debug\net8.0\StudentTask.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\StudentTask\StudentTask\obj\Debug\net8.0\StudentTask.dll
+C:\Users\ACER\source\repos\StudentTask\StudentTask\obj\Debug\net8.0\refint\StudentTask.dll
+C:\Users\ACER\source\repos\StudentTask\StudentTask\obj\Debug\net8.0\StudentTask.pdb
+C:\Users\ACER\source\repos\StudentTask\StudentTask\obj\Debug\net8.0\StudentTask.genruntimeconfig.cache
+C:\Users\ACER\source\repos\StudentTask\StudentTask\obj\Debug\net8.0\ref\StudentTask.dll

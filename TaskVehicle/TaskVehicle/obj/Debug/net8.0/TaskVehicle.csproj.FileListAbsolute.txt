@@ -12,3 +12,18 @@ C:\Users\ACER\source\repos\TaskVehicle\TaskVehicle\obj\Debug\net8.0\refint\TaskV
 C:\Users\ACER\source\repos\TaskVehicle\TaskVehicle\obj\Debug\net8.0\TaskVehicle.pdb
 C:\Users\ACER\source\repos\TaskVehicle\TaskVehicle\obj\Debug\net8.0\TaskVehicle.genruntimeconfig.cache
 C:\Users\ACER\source\repos\TaskVehicle\TaskVehicle\obj\Debug\net8.0\ref\TaskVehicle.dll
+C:\Users\ACER\Desktop\Code Academy\TaskVehicle\TaskVehicle\bin\Debug\net8.0\TaskVehicle.exe
+C:\Users\ACER\Desktop\Code Academy\TaskVehicle\TaskVehicle\bin\Debug\net8.0\TaskVehicle.deps.json
+C:\Users\ACER\Desktop\Code Academy\TaskVehicle\TaskVehicle\bin\Debug\net8.0\TaskVehicle.runtimeconfig.json
+C:\Users\ACER\Desktop\Code Academy\TaskVehicle\TaskVehicle\bin\Debug\net8.0\TaskVehicle.dll
+C:\Users\ACER\Desktop\Code Academy\TaskVehicle\TaskVehicle\bin\Debug\net8.0\TaskVehicle.pdb
+C:\Users\ACER\Desktop\Code Academy\TaskVehicle\TaskVehicle\obj\Debug\net8.0\TaskVehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Code Academy\TaskVehicle\TaskVehicle\obj\Debug\net8.0\TaskVehicle.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Code Academy\TaskVehicle\TaskVehicle\obj\Debug\net8.0\TaskVehicle.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Code Academy\TaskVehicle\TaskVehicle\obj\Debug\net8.0\TaskVehicle.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Code Academy\TaskVehicle\TaskVehicle\obj\Debug\net8.0\TaskVehicle.sourcelink.json
+C:\Users\ACER\Desktop\Code Academy\TaskVehicle\TaskVehicle\obj\Debug\net8.0\TaskVehicle.dll
+C:\Users\ACER\Desktop\Code Academy\TaskVehicle\TaskVehicle\obj\Debug\net8.0\refint\TaskVehicle.dll
+C:\Users\ACER\Desktop\Code Academy\TaskVehicle\TaskVehicle\obj\Debug\net8.0\TaskVehicle.pdb
+C:\Users\ACER\Desktop\Code Academy\TaskVehicle\TaskVehicle\obj\Debug\net8.0\TaskVehicle.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Code Academy\TaskVehicle\TaskVehicle\obj\Debug\net8.0\ref\TaskVehicle.dll
