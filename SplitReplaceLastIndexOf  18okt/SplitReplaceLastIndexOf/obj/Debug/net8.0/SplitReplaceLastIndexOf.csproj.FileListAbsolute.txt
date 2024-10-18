@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\SplitReplaceLastIndexOf\SplitReplaceLastIndexOf\bin\Debug\net8.0\SplitReplaceLastIndexOf.exe
+C:\Users\ACER\source\repos\SplitReplaceLastIndexOf\SplitReplaceLastIndexOf\bin\Debug\net8.0\SplitReplaceLastIndexOf.deps.json
+C:\Users\ACER\source\repos\SplitReplaceLastIndexOf\SplitReplaceLastIndexOf\bin\Debug\net8.0\SplitReplaceLastIndexOf.runtimeconfig.json
+C:\Users\ACER\source\repos\SplitReplaceLastIndexOf\SplitReplaceLastIndexOf\bin\Debug\net8.0\SplitReplaceLastIndexOf.dll
+C:\Users\ACER\source\repos\SplitReplaceLastIndexOf\SplitReplaceLastIndexOf\bin\Debug\net8.0\SplitReplaceLastIndexOf.pdb
+C:\Users\ACER\source\repos\SplitReplaceLastIndexOf\SplitReplaceLastIndexOf\obj\Debug\net8.0\SplitReplaceLastIndexOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\SplitReplaceLastIndexOf\SplitReplaceLastIndexOf\obj\Debug\net8.0\SplitReplaceLastIndexOf.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\SplitReplaceLastIndexOf\SplitReplaceLastIndexOf\obj\Debug\net8.0\SplitReplaceLastIndexOf.AssemblyInfo.cs
+C:\Users\ACER\source\repos\SplitReplaceLastIndexOf\SplitReplaceLastIndexOf\obj\Debug\net8.0\SplitReplaceLastIndexOf.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\SplitReplaceLastIndexOf\SplitReplaceLastIndexOf\obj\Debug\net8.0\SplitReplaceLastIndexOf.dll
+C:\Users\ACER\source\repos\SplitReplaceLastIndexOf\SplitReplaceLastIndexOf\obj\Debug\net8.0\refint\SplitReplaceLastIndexOf.dll
+C:\Users\ACER\source\repos\SplitReplaceLastIndexOf\SplitReplaceLastIndexOf\obj\Debug\net8.0\SplitReplaceLastIndexOf.pdb
+C:\Users\ACER\source\repos\SplitReplaceLastIndexOf\SplitReplaceLastIndexOf\obj\Debug\net8.0\SplitReplaceLastIndexOf.genruntimeconfig.cache
+C:\Users\ACER\source\repos\SplitReplaceLastIndexOf\SplitReplaceLastIndexOf\obj\Debug\net8.0\ref\SplitReplaceLastIndexOf.dll
