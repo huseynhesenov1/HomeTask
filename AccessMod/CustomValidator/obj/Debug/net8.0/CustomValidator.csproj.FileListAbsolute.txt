@@ -1,0 +1,11 @@
+C:\Users\MyLPT\source\repos\AccessMod\CustomValidator\bin\Debug\net8.0\CustomValidator.deps.json
+C:\Users\MyLPT\source\repos\AccessMod\CustomValidator\bin\Debug\net8.0\CustomValidator.dll
+C:\Users\MyLPT\source\repos\AccessMod\CustomValidator\bin\Debug\net8.0\CustomValidator.pdb
+C:\Users\MyLPT\source\repos\AccessMod\CustomValidator\obj\Debug\net8.0\CustomValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyLPT\source\repos\AccessMod\CustomValidator\obj\Debug\net8.0\CustomValidator.AssemblyInfoInputs.cache
+C:\Users\MyLPT\source\repos\AccessMod\CustomValidator\obj\Debug\net8.0\CustomValidator.AssemblyInfo.cs
+C:\Users\MyLPT\source\repos\AccessMod\CustomValidator\obj\Debug\net8.0\CustomValidator.csproj.CoreCompileInputs.cache
+C:\Users\MyLPT\source\repos\AccessMod\CustomValidator\obj\Debug\net8.0\CustomValidator.dll
+C:\Users\MyLPT\source\repos\AccessMod\CustomValidator\obj\Debug\net8.0\refint\CustomValidator.dll
+C:\Users\MyLPT\source\repos\AccessMod\CustomValidator\obj\Debug\net8.0\CustomValidator.pdb
+C:\Users\MyLPT\source\repos\AccessMod\CustomValidator\obj\Debug\net8.0\ref\CustomValidator.dll

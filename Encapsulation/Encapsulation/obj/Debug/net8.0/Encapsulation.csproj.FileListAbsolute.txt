@@ -12,3 +12,18 @@ C:\Users\ACER\source\repos\Encapsulation\Encapsulation\obj\Debug\net8.0\refint\E
 C:\Users\ACER\source\repos\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
 C:\Users\ACER\source\repos\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
 C:\Users\ACER\source\repos\Encapsulation\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll
+C:\Users\ACER\Desktop\Code Academy\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+C:\Users\ACER\Desktop\Code Academy\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+C:\Users\ACER\Desktop\Code Academy\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+C:\Users\ACER\Desktop\Code Academy\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+C:\Users\ACER\Desktop\Code Academy\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+C:\Users\ACER\Desktop\Code Academy\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Code Academy\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Code Academy\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Code Academy\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Code Academy\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.sourcelink.json
+C:\Users\ACER\Desktop\Code Academy\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+C:\Users\ACER\Desktop\Code Academy\Encapsulation\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+C:\Users\ACER\Desktop\Code Academy\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+C:\Users\ACER\Desktop\Code Academy\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Code Academy\Encapsulation\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll

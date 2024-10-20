@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessMod", "AccessMod\AccessMod.csproj", "{DC91B330-D801-48C2-837F-558290719597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomValidator", "CustomValidator\CustomValidator.csproj", "{369024C7-C399-443B-8AF2-8A1B67DBBBE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC91B330-D801-48C2-837F-558290719597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC91B330-D801-48C2-837F-558290719597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC91B330-D801-48C2-837F-558290719597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC91B330-D801-48C2-837F-558290719597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{369024C7-C399-443B-8AF2-8A1B67DBBBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369024C7-C399-443B-8AF2-8A1B67DBBBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369024C7-C399-443B-8AF2-8A1B67DBBBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369024C7-C399-443B-8AF2-8A1B67DBBBE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61DE6D79-2DB7-4080-8844-41617EDC5979}
+	EndGlobalSection
+EndGlobal
