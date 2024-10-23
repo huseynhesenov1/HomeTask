@@ -62,11 +62,11 @@ namespace SearchNameID.Models
         public void UpdateStudent(int id, Student updatedStudent)
         {
             var student = GetStudentById(id);
-            
-                student.FirstName = updatedStudent.FirstName;
-                student.LastName = updatedStudent.LastName;
-                
-           
+
+            student.FirstName = updatedStudent.FirstName;
+            student.LastName = updatedStudent.LastName;
+
+
         }
     }
 }

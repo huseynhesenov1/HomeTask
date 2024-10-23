@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SearchNameID")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8006a8cd2ffa7c25a6671c5847c86e406ee167f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SearchNameID")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SearchNameID")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

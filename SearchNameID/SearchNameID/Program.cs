@@ -51,10 +51,10 @@ internal class Program
 
 
         #region GetStudentById
-        //Console.WriteLine("Axtarmaq istediyiniz telebenin ID-sini daxil edin");
-        //int searchId = int.Parse(Console.ReadLine());
-        //Student studentObj = studentService.GetStudentById(searchId);
-        //Console.WriteLine($"Id:{studentObj.Id} \nAdi:{studentObj.FirstName} \nSoyadi:{studentObj.LastName}");
+        Console.WriteLine("Axtarmaq istediyiniz telebenin ID-sini daxil edin");
+        int searchId = int.Parse(Console.ReadLine());
+        Student studentObj = studentService.GetStudentById(searchId);
+        Console.WriteLine($"Id:{studentObj.Id} \nAdi:{studentObj.FirstName} \nSoyadi:{studentObj.LastName}");
         #endregion
 
 
