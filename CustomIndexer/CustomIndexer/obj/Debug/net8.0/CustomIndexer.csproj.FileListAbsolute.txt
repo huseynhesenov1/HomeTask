@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\CustomIndexer\CustomIndexer\bin\Debug\net8.0\CustomIndexer.exe
+C:\Users\ACER\source\repos\CustomIndexer\CustomIndexer\bin\Debug\net8.0\CustomIndexer.deps.json
+C:\Users\ACER\source\repos\CustomIndexer\CustomIndexer\bin\Debug\net8.0\CustomIndexer.runtimeconfig.json
+C:\Users\ACER\source\repos\CustomIndexer\CustomIndexer\bin\Debug\net8.0\CustomIndexer.dll
+C:\Users\ACER\source\repos\CustomIndexer\CustomIndexer\bin\Debug\net8.0\CustomIndexer.pdb
+C:\Users\ACER\source\repos\CustomIndexer\CustomIndexer\obj\Debug\net8.0\CustomIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\CustomIndexer\CustomIndexer\obj\Debug\net8.0\CustomIndexer.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\CustomIndexer\CustomIndexer\obj\Debug\net8.0\CustomIndexer.AssemblyInfo.cs
+C:\Users\ACER\source\repos\CustomIndexer\CustomIndexer\obj\Debug\net8.0\CustomIndexer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CustomIndexer\CustomIndexer\obj\Debug\net8.0\CustomIndexer.dll
+C:\Users\ACER\source\repos\CustomIndexer\CustomIndexer\obj\Debug\net8.0\refint\CustomIndexer.dll
+C:\Users\ACER\source\repos\CustomIndexer\CustomIndexer\obj\Debug\net8.0\CustomIndexer.pdb
+C:\Users\ACER\source\repos\CustomIndexer\CustomIndexer\obj\Debug\net8.0\CustomIndexer.genruntimeconfig.cache
+C:\Users\ACER\source\repos\CustomIndexer\CustomIndexer\obj\Debug\net8.0\ref\CustomIndexer.dll
