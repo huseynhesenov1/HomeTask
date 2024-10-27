@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\ReflectionTask\ReflectionTask\bin\Debug\net8.0\ReflectionTask.exe
+C:\Users\ACER\source\repos\ReflectionTask\ReflectionTask\bin\Debug\net8.0\ReflectionTask.deps.json
+C:\Users\ACER\source\repos\ReflectionTask\ReflectionTask\bin\Debug\net8.0\ReflectionTask.runtimeconfig.json
+C:\Users\ACER\source\repos\ReflectionTask\ReflectionTask\bin\Debug\net8.0\ReflectionTask.dll
+C:\Users\ACER\source\repos\ReflectionTask\ReflectionTask\bin\Debug\net8.0\ReflectionTask.pdb
+C:\Users\ACER\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.dll
+C:\Users\ACER\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\refint\ReflectionTask.dll
+C:\Users\ACER\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.pdb
+C:\Users\ACER\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.genruntimeconfig.cache
+C:\Users\ACER\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ref\ReflectionTask.dll
