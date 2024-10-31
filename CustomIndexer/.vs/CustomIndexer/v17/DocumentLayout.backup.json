@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\CustomIndexer\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\CustomIndexer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40254E0D-2EB5-4E8A-A9AA-F379DFC39F64}|CustomIndexer\\CustomIndexer.csproj|c:\\users\\acer\\source\\repos\\customindexer\\customindexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40254E0D-2EB5-4E8A-A9AA-F379DFC39F64}|CustomIndexer\\CustomIndexer.csproj|solutionrelative:customindexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\Code Academy\\CustomIndexer\\CustomIndexer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomIndexer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40254E0D-2EB5-4E8A-A9AA-F379DFC39F64}|CustomIndexer\\CustomIndexer.csproj|c:\\users\\acer\\source\\repos\\customindexer\\customindexer\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40254E0D-2EB5-4E8A-A9AA-F379DFC39F64}|CustomIndexer\\CustomIndexer.csproj|solutionrelative:customindexer\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\Code Academy\\CustomIndexer\\CustomIndexer\\Models\\StringList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomIndexer\\Models\\StringList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40254E0D-2EB5-4E8A-A9AA-F379DFC39F64}|CustomIndexer\\CustomIndexer.csproj|c:\\users\\acer\\source\\repos\\customindexer\\customindexer\\models\\stringlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40254E0D-2EB5-4E8A-A9AA-F379DFC39F64}|CustomIndexer\\CustomIndexer.csproj|solutionrelative:customindexer\\models\\stringlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\Code Academy\\CustomIndexer\\CustomIndexer\\Models\\City.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomIndexer\\Models\\City.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\CustomIndexer\\CustomIndexer\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\CustomIndexer\\CustomIndexer\\Program.cs",
               "RelativeDocumentMoniker": "CustomIndexer\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\CustomIndexer\\CustomIndexer\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\CustomIndexer\\CustomIndexer\\Program.cs",
               "RelativeToolTip": "CustomIndexer\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T22:09:31.078Z",
               "IsPinned": true,
@@ -40,13 +40,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\CustomIndexer\\CustomIndexer\\Models\\City.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\CustomIndexer\\CustomIndexer\\Models\\City.cs",
               "RelativeDocumentMoniker": "CustomIndexer\\Models\\City.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\CustomIndexer\\CustomIndexer\\Models\\City.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\CustomIndexer\\CustomIndexer\\Models\\City.cs",
               "RelativeToolTip": "CustomIndexer\\Models\\City.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAWwA0AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T22:34:42.3Z",
               "IsPinned": true,
@@ -54,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "StringList.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\CustomIndexer\\CustomIndexer\\Models\\StringList.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\CustomIndexer\\CustomIndexer\\Models\\StringList.cs",
               "RelativeDocumentMoniker": "CustomIndexer\\Models\\StringList.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\CustomIndexer\\CustomIndexer\\Models\\StringList.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\CustomIndexer\\CustomIndexer\\Models\\StringList.cs",
               "RelativeToolTip": "CustomIndexer\\Models\\StringList.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAYwCcAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T22:34:18.516Z",
               "EditorCaption": ""

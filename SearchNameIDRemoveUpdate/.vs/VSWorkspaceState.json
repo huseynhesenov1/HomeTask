@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\SearchNameID",
+    "\\SearchNameID\\Models",
     "\\SearchNameID\\obj"
   ],
-  "SelectedNode": "\\SearchNameID\\Program.cs",
+  "SelectedNode": "\\SearchNameID\\Models\\StudentService .cs",
   "PreviewInSolutionExplorer": false
 }

@@ -26,3 +26,18 @@ C:\Users\ACER\source\repos\SearchNameIDRemoveUpdate\SearchNameID\obj\Debug\net8.
 C:\Users\ACER\source\repos\SearchNameIDRemoveUpdate\SearchNameID\obj\Debug\net8.0\SearchNameID.pdb
 C:\Users\ACER\source\repos\SearchNameIDRemoveUpdate\SearchNameID\obj\Debug\net8.0\SearchNameID.genruntimeconfig.cache
 C:\Users\ACER\source\repos\SearchNameIDRemoveUpdate\SearchNameID\obj\Debug\net8.0\ref\SearchNameID.dll
+C:\Users\ACER\Desktop\Code Academy\SearchNameIDRemoveUpdate\SearchNameID\bin\Debug\net8.0\SearchNameID.exe
+C:\Users\ACER\Desktop\Code Academy\SearchNameIDRemoveUpdate\SearchNameID\bin\Debug\net8.0\SearchNameID.deps.json
+C:\Users\ACER\Desktop\Code Academy\SearchNameIDRemoveUpdate\SearchNameID\bin\Debug\net8.0\SearchNameID.runtimeconfig.json
+C:\Users\ACER\Desktop\Code Academy\SearchNameIDRemoveUpdate\SearchNameID\bin\Debug\net8.0\SearchNameID.dll
+C:\Users\ACER\Desktop\Code Academy\SearchNameIDRemoveUpdate\SearchNameID\bin\Debug\net8.0\SearchNameID.pdb
+C:\Users\ACER\Desktop\Code Academy\SearchNameIDRemoveUpdate\SearchNameID\obj\Debug\net8.0\SearchNameID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Code Academy\SearchNameIDRemoveUpdate\SearchNameID\obj\Debug\net8.0\SearchNameID.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Code Academy\SearchNameIDRemoveUpdate\SearchNameID\obj\Debug\net8.0\SearchNameID.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Code Academy\SearchNameIDRemoveUpdate\SearchNameID\obj\Debug\net8.0\SearchNameID.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Code Academy\SearchNameIDRemoveUpdate\SearchNameID\obj\Debug\net8.0\SearchNameID.sourcelink.json
+C:\Users\ACER\Desktop\Code Academy\SearchNameIDRemoveUpdate\SearchNameID\obj\Debug\net8.0\SearchNameID.dll
+C:\Users\ACER\Desktop\Code Academy\SearchNameIDRemoveUpdate\SearchNameID\obj\Debug\net8.0\refint\SearchNameID.dll
+C:\Users\ACER\Desktop\Code Academy\SearchNameIDRemoveUpdate\SearchNameID\obj\Debug\net8.0\SearchNameID.pdb
+C:\Users\ACER\Desktop\Code Academy\SearchNameIDRemoveUpdate\SearchNameID\obj\Debug\net8.0\SearchNameID.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Code Academy\SearchNameIDRemoveUpdate\SearchNameID\obj\Debug\net8.0\ref\SearchNameID.dll

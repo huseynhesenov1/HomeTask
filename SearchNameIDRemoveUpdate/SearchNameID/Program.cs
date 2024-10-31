@@ -51,10 +51,10 @@ internal class Program
 
 
         #region GetStudentById
-        //Console.WriteLine("Axtarmaq istediyiniz telebenin ID-sini daxil edin");
-        //int searchId = int.Parse(Console.ReadLine());
-        //Student studentObj = studentService.GetStudentById(searchId);
-        //Console.WriteLine($"Id:{studentObj.Id} \nAdi:{studentObj.FirstName} \nSoyadi:{studentObj.LastName}");
+        Console.WriteLine("Axtarmaq istediyiniz telebenin ID-sini daxil edin");
+        int searchId = int.Parse(Console.ReadLine());
+        Student studentObj = studentService.GetStudentById(searchId);
+        Console.WriteLine($"Id:{studentObj.Id} \nAdi:{studentObj.FirstName} \nSoyadi:{studentObj.LastName}");
         #endregion
 
 
@@ -94,16 +94,20 @@ internal class Program
         //    Console.WriteLine($"Adi:{st.FirstName} \nSoyadi:{st.LastName}");
         //}
         #endregion
+
+
+
+
         #region Remove
 
-        Console.WriteLine("Silmek istedyiniz elementin ID-sini yazin");
-        int RemoveID = Convert.ToInt32(Console.ReadLine());      
-        studentService.RemoveStudent(RemoveID, false);
-        Student[] studentAll = studentService.GetAllStudents();
-        foreach (var st in studentAll)
-        {
-            Console.WriteLine($"Adi:{st.FirstName} \nSoyadi:{st.LastName}");
-        }
+        //Console.WriteLine("Silmek istedyiniz elementin ID-sini yazin");
+        //int RemoveID = Convert.ToInt32(Console.ReadLine());      
+        //studentService.RemoveStudent(RemoveID, false);
+        //Student[] studentAll = studentService.GetAllStudents();
+        //foreach (var st in studentAll)
+        //{
+        //    Console.WriteLine($"Adi:{st.FirstName} \nSoyadi:{st.LastName}");
+        //}
 
         #endregion
     }

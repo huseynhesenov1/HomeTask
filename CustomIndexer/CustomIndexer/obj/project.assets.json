@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\CustomIndexer\\CustomIndexer\\CustomIndexer.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Code Academy\\CustomIndexer\\CustomIndexer\\CustomIndexer.csproj",
       "projectName": "CustomIndexer",
-      "projectPath": "C:\\Users\\ACER\\source\\repos\\CustomIndexer\\CustomIndexer\\CustomIndexer.csproj",
+      "projectPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\CustomIndexer\\CustomIndexer\\CustomIndexer.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\source\\repos\\CustomIndexer\\CustomIndexer\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\CustomIndexer\\CustomIndexer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",

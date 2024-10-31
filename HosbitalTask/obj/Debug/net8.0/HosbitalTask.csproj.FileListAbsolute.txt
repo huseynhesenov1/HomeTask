@@ -1,0 +1,28 @@
+C:\Users\II Novbe\source\repos\HosbitalTask\bin\Debug\net8.0\HosbitalTask.exe
+C:\Users\II Novbe\source\repos\HosbitalTask\bin\Debug\net8.0\HosbitalTask.deps.json
+C:\Users\II Novbe\source\repos\HosbitalTask\bin\Debug\net8.0\HosbitalTask.runtimeconfig.json
+C:\Users\II Novbe\source\repos\HosbitalTask\bin\Debug\net8.0\HosbitalTask.dll
+C:\Users\II Novbe\source\repos\HosbitalTask\bin\Debug\net8.0\HosbitalTask.pdb
+C:\Users\II Novbe\source\repos\HosbitalTask\obj\Debug\net8.0\HosbitalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\HosbitalTask\obj\Debug\net8.0\HosbitalTask.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\HosbitalTask\obj\Debug\net8.0\HosbitalTask.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\HosbitalTask\obj\Debug\net8.0\HosbitalTask.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\HosbitalTask\obj\Debug\net8.0\HosbitalTask.dll
+C:\Users\II Novbe\source\repos\HosbitalTask\obj\Debug\net8.0\refint\HosbitalTask.dll
+C:\Users\II Novbe\source\repos\HosbitalTask\obj\Debug\net8.0\HosbitalTask.pdb
+C:\Users\II Novbe\source\repos\HosbitalTask\obj\Debug\net8.0\HosbitalTask.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\HosbitalTask\obj\Debug\net8.0\ref\HosbitalTask.dll
+C:\Users\ACER\Desktop\HosbitalTask\bin\Debug\net8.0\HosbitalTask.exe
+C:\Users\ACER\Desktop\HosbitalTask\bin\Debug\net8.0\HosbitalTask.deps.json
+C:\Users\ACER\Desktop\HosbitalTask\bin\Debug\net8.0\HosbitalTask.runtimeconfig.json
+C:\Users\ACER\Desktop\HosbitalTask\bin\Debug\net8.0\HosbitalTask.dll
+C:\Users\ACER\Desktop\HosbitalTask\bin\Debug\net8.0\HosbitalTask.pdb
+C:\Users\ACER\Desktop\HosbitalTask\obj\Debug\net8.0\HosbitalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\HosbitalTask\obj\Debug\net8.0\HosbitalTask.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\HosbitalTask\obj\Debug\net8.0\HosbitalTask.AssemblyInfo.cs
+C:\Users\ACER\Desktop\HosbitalTask\obj\Debug\net8.0\HosbitalTask.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\HosbitalTask\obj\Debug\net8.0\HosbitalTask.dll
+C:\Users\ACER\Desktop\HosbitalTask\obj\Debug\net8.0\refint\HosbitalTask.dll
+C:\Users\ACER\Desktop\HosbitalTask\obj\Debug\net8.0\HosbitalTask.pdb
+C:\Users\ACER\Desktop\HosbitalTask\obj\Debug\net8.0\HosbitalTask.genruntimeconfig.cache
+C:\Users\ACER\Desktop\HosbitalTask\obj\Debug\net8.0\ref\HosbitalTask.dll

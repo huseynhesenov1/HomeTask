@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\SearchNameID\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\SearchNameIDRemoveUpdate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A730B21-31DC-4BD5-8CF6-FBFD456AA067}|SearchNameID\\SearchNameID.csproj|c:\\users\\acer\\source\\repos\\searchnameid\\searchnameid\\models\\studentservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A730B21-31DC-4BD5-8CF6-FBFD456AA067}|SearchNameID\\SearchNameID.csproj|c:\\users\\acer\\desktop\\code academy\\searchnameidremoveupdate\\searchnameid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A730B21-31DC-4BD5-8CF6-FBFD456AA067}|SearchNameID\\SearchNameID.csproj|solutionrelative:searchnameid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A730B21-31DC-4BD5-8CF6-FBFD456AA067}|SearchNameID\\SearchNameID.csproj|c:\\users\\acer\\desktop\\code academy\\searchnameidremoveupdate\\searchnameid\\models\\studentservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A730B21-31DC-4BD5-8CF6-FBFD456AA067}|SearchNameID\\SearchNameID.csproj|solutionrelative:searchnameid\\models\\studentservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A730B21-31DC-4BD5-8CF6-FBFD456AA067}|SearchNameID\\SearchNameID.csproj|c:\\users\\acer\\source\\repos\\searchnameid\\searchnameid\\interface\\istudentservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A730B21-31DC-4BD5-8CF6-FBFD456AA067}|SearchNameID\\SearchNameID.csproj|solutionrelative:searchnameid\\interface\\istudentservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A730B21-31DC-4BD5-8CF6-FBFD456AA067}|SearchNameID\\SearchNameID.csproj|c:\\users\\acer\\source\\repos\\searchnameid\\searchnameid\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A730B21-31DC-4BD5-8CF6-FBFD456AA067}|SearchNameID\\SearchNameID.csproj|c:\\users\\acer\\desktop\\code academy\\searchnameidremoveupdate\\searchnameid\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A730B21-31DC-4BD5-8CF6-FBFD456AA067}|SearchNameID\\SearchNameID.csproj|solutionrelative:searchnameid\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A730B21-31DC-4BD5-8CF6-FBFD456AA067}|SearchNameID\\SearchNameID.csproj|c:\\users\\acer\\source\\repos\\searchnameid\\searchnameid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A730B21-31DC-4BD5-8CF6-FBFD456AA067}|SearchNameID\\SearchNameID.csproj|solutionrelative:searchnameid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A730B21-31DC-4BD5-8CF6-FBFD456AA067}|SearchNameID\\SearchNameID.csproj|c:\\users\\acer\\desktop\\code academy\\searchnameidremoveupdate\\searchnameid\\interface\\istudentservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A730B21-31DC-4BD5-8CF6-FBFD456AA067}|SearchNameID\\SearchNameID.csproj|solutionrelative:searchnameid\\interface\\istudentservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\SearchNameID\\SearchNameID\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\SearchNameIDRemoveUpdate\\SearchNameID\\Program.cs",
               "RelativeDocumentMoniker": "SearchNameID\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\SearchNameID\\SearchNameID\\Program.cs",
-              "RelativeToolTip": "SearchNameID\\Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAQwGoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\SearchNameIDRemoveUpdate\\SearchNameID\\Program.cs*",
+              "RelativeToolTip": "SearchNameID\\Program.cs*",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADgAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T20:12:21.071Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\SearchNameID\\SearchNameID\\Models\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\SearchNameIDRemoveUpdate\\SearchNameID\\Models\\Student.cs",
               "RelativeDocumentMoniker": "SearchNameID\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\SearchNameID\\SearchNameID\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\SearchNameIDRemoveUpdate\\SearchNameID\\Models\\Student.cs",
               "RelativeToolTip": "SearchNameID\\Models\\Student.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:16:42.464Z"
+              "WhenOpened": "2024-10-22T20:16:42.464Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentService .cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\SearchNameID\\SearchNameID\\Models\\StudentService .cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\SearchNameIDRemoveUpdate\\SearchNameID\\Models\\StudentService .cs",
               "RelativeDocumentMoniker": "SearchNameID\\Models\\StudentService .cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\SearchNameID\\SearchNameID\\Models\\StudentService .cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\SearchNameIDRemoveUpdate\\SearchNameID\\Models\\StudentService .cs",
               "RelativeToolTip": "SearchNameID\\Models\\StudentService .cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAcwEMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvyoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T20:28:14.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IStudentService .cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\SearchNameID\\SearchNameID\\Interface\\IStudentService .cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\SearchNameIDRemoveUpdate\\SearchNameID\\Interface\\IStudentService .cs",
               "RelativeDocumentMoniker": "SearchNameID\\Interface\\IStudentService .cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\SearchNameID\\SearchNameID\\Interface\\IStudentService .cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\SearchNameIDRemoveUpdate\\SearchNameID\\Interface\\IStudentService .cs",
               "RelativeToolTip": "SearchNameID\\Interface\\IStudentService .cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAApwBMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:19:46.486Z"
+              "WhenOpened": "2024-10-22T20:19:46.486Z",
+              "EditorCaption": ""
             }
           ]
         }
