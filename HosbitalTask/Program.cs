@@ -6,6 +6,8 @@ namespace HosbitalTask;
 
 internal class Program
 {
+    private static List<Appointment> Appointments = new List<Appointment>();
+
     static void Main(string[] args)
     {
         AppointmentService appointmentService = new AppointmentService();
@@ -15,7 +17,7 @@ internal class Program
             Id = 1,
             PatientName = "Sahub1",
             DoctorName = "Agabala1",
-            StartDate = new DateTime(2005, 1, 1),
+            StartDate = new DateTime(2005, 1, 11),
             EndDate = default(DateTime),
 
         };
@@ -31,6 +33,11 @@ internal class Program
 
         appointmentService.AddAppointment(appointment3);
         appointmentService.AddAppointment(appointment4);
+
+
+
+
+        #region
         bool running = true;
         while (running)
         {
@@ -93,10 +100,17 @@ internal class Program
 
                     break;
                 case 6:
-
                     appointmentService.GetAllContinuingAppointments();
                     break;
                 case 7:
+
+                    DateTime start1 = DateTime.Parse(Console.ReadLine());
+                    DateTime start2 = DateTime.Parse(Console.ReadLine());
+                    appointmentService.FilterAppointments(start1, start2);
+
+
+                    break;
+                case 8:
                     running = false;
                     Console.WriteLine("The program has been stopped");
                     break;
@@ -105,5 +119,20 @@ internal class Program
                     break;
             }
         }
+        #endregion
+
+
+
+
     }
+
+
+
+
+
 }
+
+
+
+    
+

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\Desktop\\HosbitalTask\\HosbitalTask.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Code Academy\\HosbitalTask\\HosbitalTask.csproj",
       "projectName": "HosbitalTask",
-      "projectPath": "C:\\Users\\ACER\\Desktop\\HosbitalTask\\HosbitalTask.csproj",
+      "projectPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\HosbitalTask\\HosbitalTask.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\Desktop\\HosbitalTask\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\HosbitalTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HosbitalTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca37d544fd773b9de52705a8ef0d08b61ca1d7c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("HosbitalTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HosbitalTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

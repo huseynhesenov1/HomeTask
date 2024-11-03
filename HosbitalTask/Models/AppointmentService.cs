@@ -167,7 +167,33 @@ namespace HosbitalTask.Models
             }
         }
 
+       
 
+        public void FilterAppointments(DateTime startDate1, DateTime startDate2)
+        {
+            int index = -1;
+            for (int i = 0; i < Appointments.Count; i++)
+            {
 
+                index = i;
+                break;
+
+            }
+
+            if (index != -1)
+            {
+
+                if ((Appointments[index].StartDate.Day >= startDate1.Day && Appointments[index].StartDate.Day <= startDate2.Day))
+                {
+
+                    Console.WriteLine($" Id: {Appointments[index].Id}\n PatientName: {Appointments[index].PatientName}\n DoctorName: {Appointments[index].DoctorName}\n StartDate: {Appointments[index].StartDate}\n EndDate: {Appointments[index].EndDate}\n  ");
+
+                }
+            }
+            else
+            {
+                throw new Exception($"Appointments de bu  uygun deyer tapilmadi");
+            }
+        }
     }
 }

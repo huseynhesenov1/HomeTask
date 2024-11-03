@@ -16,5 +16,6 @@ namespace HosbitalTask.Interface
         void GetWeeklyAppointments();
         void GetTodaysAppointments();
         void GetAllContinuingAppointments();
+        void FilterAppointments(DateTime startDate1, DateTime startDate2);
     }
 }

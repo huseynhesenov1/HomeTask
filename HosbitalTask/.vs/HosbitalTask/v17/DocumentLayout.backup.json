@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\HosbitalTask\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\HosbitalTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A570BD43-8BF4-49DF-A68A-A7C8629D8923}|HosbitalTask.csproj|c:\\users\\acer\\desktop\\hosbitaltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A570BD43-8BF4-49DF-A68A-A7C8629D8923}|HosbitalTask.csproj|c:\\users\\acer\\desktop\\code academy\\hosbitaltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A570BD43-8BF4-49DF-A68A-A7C8629D8923}|HosbitalTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A570BD43-8BF4-49DF-A68A-A7C8629D8923}|HosbitalTask.csproj|c:\\users\\acer\\desktop\\hosbitaltask\\models\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A570BD43-8BF4-49DF-A68A-A7C8629D8923}|HosbitalTask.csproj|c:\\users\\acer\\desktop\\code academy\\hosbitaltask\\models\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A570BD43-8BF4-49DF-A68A-A7C8629D8923}|HosbitalTask.csproj|solutionrelative:models\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A570BD43-8BF4-49DF-A68A-A7C8629D8923}|HosbitalTask.csproj|c:\\users\\acer\\desktop\\hosbitaltask\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A570BD43-8BF4-49DF-A68A-A7C8629D8923}|HosbitalTask.csproj|c:\\users\\acer\\desktop\\code academy\\hosbitaltask\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A570BD43-8BF4-49DF-A68A-A7C8629D8923}|HosbitalTask.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A570BD43-8BF4-49DF-A68A-A7C8629D8923}|HosbitalTask.csproj|c:\\users\\acer\\desktop\\hosbitaltask\\interface\\iappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A570BD43-8BF4-49DF-A68A-A7C8629D8923}|HosbitalTask.csproj|c:\\users\\acer\\desktop\\code academy\\hosbitaltask\\interface\\iappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A570BD43-8BF4-49DF-A68A-A7C8629D8923}|HosbitalTask.csproj|solutionrelative:interface\\iappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A570BD43-8BF4-49DF-A68A-A7C8629D8923}|HosbitalTask.csproj|c:\\users\\acer\\desktop\\hosbitaltask\\models\\hosbital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A570BD43-8BF4-49DF-A68A-A7C8629D8923}|HosbitalTask.csproj|c:\\users\\acer\\desktop\\code academy\\hosbitaltask\\models\\hosbital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A570BD43-8BF4-49DF-A68A-A7C8629D8923}|HosbitalTask.csproj|solutionrelative:models\\hosbital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\HosbitalTask\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\HosbitalTask\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\HosbitalTask\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAqwHsAAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\HosbitalTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA8wBIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T13:21:02.137Z",
               "IsPinned": true,
@@ -50,11 +50,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AppointmentService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\HosbitalTask\\Models\\AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\HosbitalTask\\Models\\AppointmentService.cs",
               "RelativeDocumentMoniker": "Models\\AppointmentService.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\HosbitalTask\\Models\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\HosbitalTask\\Models\\AppointmentService.cs",
               "RelativeToolTip": "Models\\AppointmentService.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAowEoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAI4AAAAAAAAAAAA/wL4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T13:39:45.713Z",
               "IsPinned": true,
@@ -64,11 +64,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\HosbitalTask\\Models\\Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\HosbitalTask\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "Models\\Appointment.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\HosbitalTask\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\HosbitalTask\\Models\\Appointment.cs",
               "RelativeToolTip": "Models\\Appointment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T13:24:08.176Z",
               "EditorCaption": ""
@@ -77,11 +77,11 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IAppointment.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\HosbitalTask\\Interface\\IAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\HosbitalTask\\Interface\\IAppointment.cs",
               "RelativeDocumentMoniker": "Interface\\IAppointment.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\HosbitalTask\\Interface\\IAppointment.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\HosbitalTask\\Interface\\IAppointment.cs",
               "RelativeToolTip": "Interface\\IAppointment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T13:27:19.267Z",
               "EditorCaption": ""
@@ -90,14 +90,13 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Hosbital.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\HosbitalTask\\Models\\Hosbital.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\HosbitalTask\\Models\\Hosbital.cs",
               "RelativeDocumentMoniker": "Models\\Hosbital.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\HosbitalTask\\Models\\Hosbital.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\HosbitalTask\\Models\\Hosbital.cs",
               "RelativeToolTip": "Models\\Hosbital.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T13:24:44.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T13:24:44.935Z"
             }
           ]
         }
