@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\ConsoleApp12\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\OI_bound\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57F11CAC-951F-44C9-8A76-38CC2251E645}|ConsoleApp12\\ConsoleApp12.csproj|c:\\users\\acer\\source\\repos\\consoleapp12\\consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57F11CAC-951F-44C9-8A76-38CC2251E645}|ConsoleApp12\\ConsoleApp12.csproj|c:\\users\\acer\\desktop\\code academy\\oi_bound\\consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57F11CAC-951F-44C9-8A76-38CC2251E645}|ConsoleApp12\\ConsoleApp12.csproj|solutionrelative:consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\ConsoleApp12\\ConsoleApp12\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\OI_bound\\ConsoleApp12\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp12\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\ConsoleApp12\\ConsoleApp12\\Program.cs",
-              "RelativeToolTip": "ConsoleApp12\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwC0AAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\OI_bound\\ConsoleApp12\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp12\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T21:57:32.97Z",
               "EditorCaption": ""

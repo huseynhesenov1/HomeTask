@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\ConsoleApp12\\ConsoleApp12\\ConsoleApp12.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Code Academy\\OI_bound\\ConsoleApp12\\ConsoleApp12.csproj",
       "projectName": "ConsoleApp12",
-      "projectPath": "C:\\Users\\ACER\\source\\repos\\ConsoleApp12\\ConsoleApp12\\ConsoleApp12.csproj",
+      "projectPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\OI_bound\\ConsoleApp12\\ConsoleApp12.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\source\\repos\\ConsoleApp12\\ConsoleApp12\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\OI_bound\\ConsoleApp12\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
