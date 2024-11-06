@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\DirectoryTask2\DirectoryTask2\bin\Debug\net8.0\DirectoryTask2.exe
+C:\Users\ACER\source\repos\DirectoryTask2\DirectoryTask2\bin\Debug\net8.0\DirectoryTask2.deps.json
+C:\Users\ACER\source\repos\DirectoryTask2\DirectoryTask2\bin\Debug\net8.0\DirectoryTask2.runtimeconfig.json
+C:\Users\ACER\source\repos\DirectoryTask2\DirectoryTask2\bin\Debug\net8.0\DirectoryTask2.dll
+C:\Users\ACER\source\repos\DirectoryTask2\DirectoryTask2\bin\Debug\net8.0\DirectoryTask2.pdb
+C:\Users\ACER\source\repos\DirectoryTask2\DirectoryTask2\obj\Debug\net8.0\DirectoryTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\DirectoryTask2\DirectoryTask2\obj\Debug\net8.0\DirectoryTask2.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\DirectoryTask2\DirectoryTask2\obj\Debug\net8.0\DirectoryTask2.AssemblyInfo.cs
+C:\Users\ACER\source\repos\DirectoryTask2\DirectoryTask2\obj\Debug\net8.0\DirectoryTask2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DirectoryTask2\DirectoryTask2\obj\Debug\net8.0\DirectoryTask2.dll
+C:\Users\ACER\source\repos\DirectoryTask2\DirectoryTask2\obj\Debug\net8.0\refint\DirectoryTask2.dll
+C:\Users\ACER\source\repos\DirectoryTask2\DirectoryTask2\obj\Debug\net8.0\DirectoryTask2.pdb
+C:\Users\ACER\source\repos\DirectoryTask2\DirectoryTask2\obj\Debug\net8.0\DirectoryTask2.genruntimeconfig.cache
+C:\Users\ACER\source\repos\DirectoryTask2\DirectoryTask2\obj\Debug\net8.0\ref\DirectoryTask2.dll
+C:\Users\ACER\source\repos\DirectoryTask2\DirectoryTask2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ACER\source\repos\DirectoryTask2\DirectoryTask2\obj\Debug\net8.0\DirectoryTask2.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\DirectoryTask2\DirectoryTask2\obj\Debug\net8.0\Director.E86AD3CB.Up2Date
