@@ -1,0 +1,13 @@
+﻿@using Task_mvc2.Models;
+@model List<Groupp>;
+<h1>Group</h1>
+
+@foreach (Groupp groupp in @Model)
+{
+    <p>@groupp.Id</p>
+    <p>@groupp.Name</p>
+    <p>@groupp.MemberCount</p>
+    <p>--------------------------------</p>
+
+}
+

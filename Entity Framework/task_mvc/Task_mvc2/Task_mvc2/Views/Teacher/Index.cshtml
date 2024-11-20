@@ -1,0 +1,14 @@
+﻿
+@using Task_mvc2.Models;
+@model List<Teacher>;
+<h1>Teacher ❤️</h1>
+
+@foreach (Teacher teacher in @Model)
+{
+    <p>@teacher.Id</p>
+    <p>@teacher.Name</p>
+    <p>@teacher.Surname</p>
+    <p>@teacher.Description</p>
+    <p>--------------------------------</p>
+
+}

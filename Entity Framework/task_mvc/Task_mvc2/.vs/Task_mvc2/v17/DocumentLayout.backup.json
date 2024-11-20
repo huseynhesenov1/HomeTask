@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|c:\\users\\acer\\source\\repos\\task_mvc2\\task_mvc2\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|solutionrelative:task_mvc2\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|c:\\users\\acer\\source\\repos\\task_mvc2\\task_mvc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|solutionrelative:task_mvc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|c:\\users\\acer\\source\\repos\\task_mvc2\\task_mvc2\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|solutionrelative:task_mvc2\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|c:\\users\\acer\\source\\repos\\task_mvc2\\task_mvc2\\controllers\\grouppcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|solutionrelative:task_mvc2\\controllers\\grouppcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|c:\\users\\acer\\source\\repos\\task_mvc2\\task_mvc2\\views\\groupp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|solutionrelative:task_mvc2\\views\\groupp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|c:\\users\\acer\\source\\repos\\task_mvc2\\task_mvc2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|solutionrelative:task_mvc2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|c:\\users\\acer\\source\\repos\\task_mvc2\\task_mvc2\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|solutionrelative:task_mvc2\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|c:\\users\\acer\\source\\repos\\task_mvc2\\task_mvc2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|solutionrelative:task_mvc2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|c:\\users\\acer\\source\\repos\\task_mvc2\\task_mvc2\\models\\groupp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|solutionrelative:task_mvc2\\models\\groupp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|c:\\users\\acer\\source\\repos\\task_mvc2\\task_mvc2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC4A4C9-A55F-4683-9AEB-C44CC95E3250}|Task_mvc2\\Task_mvc2.csproj|solutionrelative:task_mvc2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Views\\Groupp\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task_mvc2\\Views\\Groupp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Views\\Groupp\\Index.cshtml",
+              "RelativeToolTip": "Task_mvc2\\Views\\Groupp\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T09:14:43.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Groupp.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Models\\Groupp.cs",
+              "RelativeDocumentMoniker": "Task_mvc2\\Models\\Groupp.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Models\\Groupp.cs",
+              "RelativeToolTip": "Task_mvc2\\Models\\Groupp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:13:29.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Program.cs",
+              "RelativeDocumentMoniker": "Task_mvc2\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Program.cs",
+              "RelativeToolTip": "Task_mvc2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:57:25.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task_mvc2\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Views\\Teacher\\Index.cshtml*",
+              "RelativeToolTip": "Task_mvc2\\Views\\Teacher\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T08:53:53.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task_mvc2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Task_mvc2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T08:52:55.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Task_mvc2\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Models\\Teacher.cs",
+              "RelativeToolTip": "Task_mvc2\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:51:39.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Task_mvc2\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Models\\Student.cs",
+              "RelativeToolTip": "Task_mvc2\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:51:21.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GrouppController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Controllers\\GrouppController.cs",
+              "RelativeDocumentMoniker": "Task_mvc2\\Controllers\\GrouppController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Controllers\\GrouppController.cs",
+              "RelativeToolTip": "Task_mvc2\\Controllers\\GrouppController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:14:02.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Task_mvc2\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Task_mvc2\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:50:51.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Task_mvc2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Task_mvc2\\Task_mvc2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Task_mvc2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:50:16.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
