@@ -1,0 +1,12 @@
+﻿@using task_mvc.Models;
+@model List<Student>;
+<h1>Student</h1>
+
+
+@foreach(Student student in @Model)
+{
+	<p>@student.Id</p>
+	<p>@student.Name</p>
+	<p>@student.Surname</p>
+	<p>@student.Age</p>
+}
