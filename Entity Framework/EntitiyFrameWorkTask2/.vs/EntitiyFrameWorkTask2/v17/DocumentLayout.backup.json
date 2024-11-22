@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\EntitiyFrameWorkTask2\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\EntitiyFrameWorkTask2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FD28506-DB40-447D-A218-597F7B633134}|EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2.csproj|c:\\users\\acer\\source\\repos\\entitiyframeworktask2\\entitiyframeworktask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD28506-DB40-447D-A218-597F7B633134}|EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2.csproj|solutionrelative:entitiyframeworktask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntitiyFrameWorkTask2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FD28506-DB40-447D-A218-597F7B633134}|EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2.csproj|c:\\users\\acer\\source\\repos\\entitiyframeworktask2\\entitiyframeworktask2\\services\\concretes\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD28506-DB40-447D-A218-597F7B633134}|EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2.csproj|solutionrelative:entitiyframeworktask2\\services\\concretes\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2\\Services\\Concretes\\StudentServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntitiyFrameWorkTask2\\Services\\Concretes\\StudentServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FD28506-DB40-447D-A218-597F7B633134}|EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2.csproj|c:\\users\\acer\\source\\repos\\entitiyframeworktask2\\entitiyframeworktask2\\services\\abstractions\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD28506-DB40-447D-A218-597F7B633134}|EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2.csproj|solutionrelative:entitiyframeworktask2\\services\\abstractions\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2\\Services\\Abstractions\\IStudentServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntitiyFrameWorkTask2\\Services\\Abstractions\\IStudentServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2\\Program.cs",
               "RelativeDocumentMoniker": "EntitiyFrameWorkTask2\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2\\Program.cs*",
-              "RelativeToolTip": "EntitiyFrameWorkTask2\\Program.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2\\Program.cs",
+              "RelativeToolTip": "EntitiyFrameWorkTask2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T19:06:07.318Z",
               "IsPinned": true,
@@ -42,27 +42,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "StudentServices.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2\\Services\\Concretes\\StudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2\\Services\\Concretes\\StudentServices.cs",
               "RelativeDocumentMoniker": "EntitiyFrameWorkTask2\\Services\\Concretes\\StudentServices.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2\\Services\\Concretes\\StudentServices.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2\\Services\\Concretes\\StudentServices.cs",
               "RelativeToolTip": "EntitiyFrameWorkTask2\\Services\\Concretes\\StudentServices.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAQwC8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAADwvy0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:49:26.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T19:49:26.001Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IStudentServices.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2\\Services\\Abstractions\\IStudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2\\Services\\Abstractions\\IStudentServices.cs",
               "RelativeDocumentMoniker": "EntitiyFrameWorkTask2\\Services\\Abstractions\\IStudentServices.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2\\Services\\Abstractions\\IStudentServices.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\EntitiyFrameWorkTask2\\EntitiyFrameWorkTask2\\Services\\Abstractions\\IStudentServices.cs",
               "RelativeToolTip": "EntitiyFrameWorkTask2\\Services\\Abstractions\\IStudentServices.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAuwAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:49:13.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T19:49:13.916Z"
             }
           ]
         }

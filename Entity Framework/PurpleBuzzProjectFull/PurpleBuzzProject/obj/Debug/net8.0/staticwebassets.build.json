@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AkHD4UmzonM1VK4j7dAk+CcS9ADc1sPr1tSUd7kZKdY=",
+  "Hash": "zByp8Zvknl6GtZOggD7eaWbKANfA6GBuPk5wXBoldOk=",
   "Source": "PurpleBuzzProject",
   "BasePath": "_content/PurpleBuzzProject",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PurpleBuzzProject\\wwwroot",
       "Source": "PurpleBuzzProject",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\css\\bootstrap.css",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\css\\boxicon.min.css",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\css\\boxicon.min.css",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "css/boxicon.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\boxicon.min.css"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\css\\custom.css",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\css\\custom.css",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "css/custom.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\custom.css"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\css\\templatemo.css",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\css\\templatemo.css",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "css/templatemo.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\templatemo.css"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\fonts\\boxicons.eot",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\fonts\\boxicons.eot",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "fonts/boxicons.eot",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\boxicons.eot"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\fonts\\boxicons.svg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\fonts\\boxicons.svg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "fonts/boxicons.svg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\boxicons.svg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\fonts\\boxicons.ttf",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\fonts\\boxicons.ttf",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "fonts/boxicons.ttf",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\boxicons.ttf"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\fonts\\boxicons.woff",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\fonts\\boxicons.woff",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "fonts/boxicons.woff",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\boxicons.woff"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\fonts\\boxicons.woff2",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\fonts\\boxicons.woff2",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "fonts/boxicons.woff2",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\boxicons.woff2"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\apple-icon.png",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\apple-icon.png",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/apple-icon.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\apple-icon.png"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\banner-bg-01.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\banner-bg-01.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/banner-bg-01.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner-bg-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\banner-bg-02.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\banner-bg-02.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/banner-bg-02.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner-bg-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\banner-bg-03.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\banner-bg-03.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/banner-bg-03.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner-bg-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\banner-img-01.svg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\banner-img-01.svg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/banner-img-01.svg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner-img-01.svg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\banner-img-02.svg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\banner-img-02.svg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/banner-img-02.svg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner-img-02.svg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\favicon.ico",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\favicon.ico",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/favicon.ico",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\feature-work-1.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\feature-work-1.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/feature-work-1.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature-work-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\feature-work-1-large.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\feature-work-1-large.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/feature-work-1-large.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature-work-1-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\feature-work-2.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\feature-work-2.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/feature-work-2.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature-work-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\feature-work-2-large.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\feature-work-2-large.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/feature-work-2-large.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature-work-2-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\feature-work-3.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\feature-work-3.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/feature-work-3.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature-work-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\feature-work-3-large.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\feature-work-3-large.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/feature-work-3-large.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature-work-3-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\feature-work-4.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\feature-work-4.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/feature-work-4.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature-work-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\feature-work-4-large.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\feature-work-4-large.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/feature-work-4-large.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature-work-4-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\our-work-01.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\our-work-01.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/our-work-01.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\img\\our-work-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\our-work-02.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\our-work-02.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/our-work-02.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\our-work-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\our-work-03.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\our-work-03.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/our-work-03.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\img\\our-work-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\our-work-04.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\our-work-04.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/our-work-04.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\img\\our-work-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\our-work-05.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\our-work-05.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/our-work-05.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\img\\our-work-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\our-work-06.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\our-work-06.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/our-work-06.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\img\\our-work-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\pricing.svg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\pricing.svg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/pricing.svg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pricing.svg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\recent-work-01.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\recent-work-01.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/recent-work-01.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\img\\recent-work-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\recent-work-02.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\recent-work-02.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/recent-work-02.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\recent-work-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\recent-work-03.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\recent-work-03.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/recent-work-03.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\img\\recent-work-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\recent-work-04.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\recent-work-04.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/recent-work-04.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\img\\recent-work-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\recent-work-05.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\recent-work-05.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/recent-work-05.jpg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\img\\recent-work-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\recent-work-06.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\recent-work-06.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/recent-work-06.jpg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\img\\recent-work-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\related-post-01.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\related-post-01.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/related-post-01.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\img\\related-post-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\related-post-02.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\related-post-02.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/related-post-02.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\img\\related-post-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\related-post-03.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\related-post-03.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/related-post-03.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\img\\related-post-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\services-01.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\services-01.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/services-01.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\services-02.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\services-02.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/services-02.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\services-03.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\services-03.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/services-03.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\services-04.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\services-04.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/services-04.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\services-05.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\services-05.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/services-05.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\services-06.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\services-06.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/services-06.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\services-07.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\services-07.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/services-07.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services-07.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\services-08.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\services-08.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/services-08.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services-08.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\team-01.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\team-01.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/team-01.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\team-02.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\team-02.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/team-02.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\team-03.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\team-03.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/team-03.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\team-04.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\team-04.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/team-04.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\team-05.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\team-05.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/team-05.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\team-06.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\team-06.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/team-06.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\work.svg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\work.svg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/work.svg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work.svg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\work-slide-01.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\work-slide-01.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/work-slide-01.jpg",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\work-slide-01-small.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\work-slide-01-small.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/work-slide-01-small.jpg",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-01-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\work-slide-02.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\work-slide-02.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/work-slide-02.jpg",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\work-slide-02-small.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\work-slide-02-small.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/work-slide-02-small.jpg",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-02-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\work-slide-03.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\work-slide-03.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/work-slide-03.jpg",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\work-slide-03-small.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\work-slide-03-small.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/work-slide-03-small.jpg",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-03-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\work-slide-04.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\work-slide-04.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/work-slide-04.jpg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\work-slide-04-small.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\work-slide-04-small.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/work-slide-04-small.jpg",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-04-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\work-slide-05.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\work-slide-05.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/work-slide-05.jpg",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\work-slide-05-small.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\work-slide-05-small.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/work-slide-05-small.jpg",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-05-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\work-slide-06.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\work-slide-06.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/work-slide-06.jpg",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\img\\work-slide-06-small.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\img\\work-slide-06-small.jpg",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "img/work-slide-06-small.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-06-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\js\\custom.js",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\js\\fslightbox.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\js\\fslightbox.js",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "js/fslightbox.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fslightbox.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\js\\isotope.pkgd.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\js\\isotope.pkgd.js",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "js/isotope.pkgd.js",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\js\\isotope.pkgd.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\js\\jquery.min.js",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\js\\templatemo.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\js\\templatemo.js",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "js/templatemo.js",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\js\\templatemo.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\js\\templatemo.min.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\js\\templatemo.min.js",
       "SourceId": "PurpleBuzzProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\PurpleBuzzProject\\PurpleBuzzProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzProject",
       "RelativePath": "js/templatemo.min.js",
       "AssetKind": "All",

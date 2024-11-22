@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EntitiyFrameWorkTask2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f08bf06df2773cbac4a9c72b84f6a14726a521e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EntitiyFrameWorkTask2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EntitiyFrameWorkTask2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
