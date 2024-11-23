@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PurpleBuzzProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03992b6ae860b96196b9c0f94e98f0768572811a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PurpleBuzzProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PurpleBuzzProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\PurpleBuzzProject.csproj": {}
+    "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\PurpleBuzzProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\PurpleBuzzProject.csproj": {
+    "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\PurpleBuzzProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\PurpleBuzzProject.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\PurpleBuzzProject.csproj",
         "projectName": "PurpleBuzzProject",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\PurpleBuzzProject.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\PurpleBuzzProject.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,6 +59,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [

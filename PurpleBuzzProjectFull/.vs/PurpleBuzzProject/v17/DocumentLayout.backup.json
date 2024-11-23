@@ -1,82 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\purplebuzzprojectfull\\purplebuzzproject\\areas\\admin\\controllers\\serviceadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\areas\\admin\\controllers\\serviceadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\migrations\\20241122065910_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\migrations\\20241122065910_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\purplebuzzprojectfull\\purplebuzzproject\\areas\\admin\\views\\serviceadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\areas\\admin\\views\\serviceadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\purplebuzzprojectfull\\purplebuzzproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\purplebuzzprojectfull\\purplebuzzproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\purplebuzzprojectfull\\purplebuzzproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\purplebuzzprojectfull\\purplebuzzproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\models\\ourteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\models\\ourteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\purplebuzzprojectfull\\purplebuzzproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\purplebuzzprojectfull\\purplebuzzproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\purplebuzzprojectfull\\purplebuzzproject\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\purplebuzzprojectfull\\purplebuzzproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\purplebuzzprojectfull\\purplebuzzproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\purplebuzzprojectfull\\purplebuzzproject\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\purplebuzzprojectfull\\purplebuzzproject\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|c:\\users\\acer\\desktop\\code academy\\entity framework\\purplebuzzprojectfull\\purplebuzzproject\\models\\userr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CABCECD-283F-4F74-9769-DEBA28174572}|PurpleBuzzProject\\PurpleBuzzProject.csproj|solutionrelative:purplebuzzproject\\models\\userr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,253 +62,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20241122065910_init.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Migrations\\20241122065910_init.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Migrations\\20241122065910_init.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Migrations\\20241122065910_init.cs",
-              "RelativeToolTip": "PurpleBuzzProject\\Migrations\\20241122065910_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ServiceAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Controllers\\ServiceAdminController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzProject\\Areas\\Admin\\Controllers\\ServiceAdminController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Controllers\\ServiceAdminController.cs*",
+              "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Controllers\\ServiceAdminController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T06:59:10.692Z",
+              "WhenOpened": "2024-11-23T07:09:46.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\appsettings.json",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\appsettings.json",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\appsettings.json",
-              "RelativeToolTip": "PurpleBuzzProject\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-22T06:43:22.825Z",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T06:31:17.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\ServiceAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzProject\\Areas\\Admin\\Views\\ServiceAdmin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\ServiceAdmin\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Views\\ServiceAdmin\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T06:05:54.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAiwI0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T05:46:44.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "PurpleBuzzProject\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T06:04:08.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Controllers\\AboutController.cs*",
-              "RelativeToolTip": "PurpleBuzzProject\\Controllers\\AboutController.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwDAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T07:35:19.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "PurpleBuzzProject\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T07:18:34.839Z",
+              "WhenOpened": "2024-11-23T05:37:16.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Userr.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Models\\Userr.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Models\\Userr.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Models\\Userr.cs",
-              "RelativeToolTip": "PurpleBuzzProject\\Models\\Userr.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T05:54:39.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "PurpleBuzzProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T04:59:39.507Z",
+              "WhenOpened": "2024-11-23T05:36:15.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PurpleBuzzProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PurpleBuzzProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAIBJwDkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAewCsAAAB+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T04:57:25.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "PurpleBuzzProject\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T04:58:34.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Program.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Program.cs",
-              "RelativeToolTip": "PurpleBuzzProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T04:50:05.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "PurpleBuzzProject\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T07:44:50.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OurTeam.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Models\\OurTeam.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Models\\OurTeam.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Models\\OurTeam.cs",
-              "RelativeToolTip": "PurpleBuzzProject\\Models\\OurTeam.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:26:26.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\About\\Index.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\About\\Index.cshtml",
-              "RelativeToolTip": "PurpleBuzzProject\\Views\\About\\Index.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAswC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T07:40:16.535Z",
+              "WhenOpened": "2024-11-23T06:16:07.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "PricingController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Controllers\\PricingController.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Controllers\\PricingController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Controllers\\PricingController.cs",
-              "RelativeToolTip": "PurpleBuzzProject\\Controllers\\PricingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T07:48:32.043Z",
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "PurpleBuzzProject\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "PurpleBuzzProject\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-23T05:29:20.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "WorkController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Controllers\\WorkController.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Controllers\\WorkController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Controllers\\WorkController.cs",
-              "RelativeToolTip": "PurpleBuzzProject\\Controllers\\WorkController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzProject\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzProject\\Views\\Work\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T05:10:55.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Program.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzProject\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Program.cs",
+              "RelativeToolTip": "PurpleBuzzProject\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T07:50:50.574Z",
+              "WhenOpened": "2024-11-23T05:13:43.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\Work\\Index.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Views\\Work\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\Work\\Index.cshtml",
-              "RelativeToolTip": "PurpleBuzzProject\\Views\\Work\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAlwCIAAAAwAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzProject\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzProject\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T07:51:07.564Z",
+              "WhenOpened": "2024-11-23T05:05:46.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\Pricing\\Index.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Views\\Pricing\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\Pricing\\Index.cshtml",
-              "RelativeToolTip": "PurpleBuzzProject\\Views\\Pricing\\Index.cshtml",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAlwKQAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T07:48:51.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "PurpleBuzzProject\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T07:45:19.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PurpleBuzzProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAGUAAAAAAAAAAIBJwH4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T04:55:44.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzProject\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\Entity Framework\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PurpleBuzzProject\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzProject\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Code Academy\\PurpleBuzzProjectFull\\PurpleBuzzProject\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "PurpleBuzzProject\\Controllers\\WorkController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T04:55:18.092Z",
+              "WhenOpened": "2024-11-23T04:47:27.909Z",
               "EditorCaption": ""
             }
           ]
