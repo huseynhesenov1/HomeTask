@@ -41,10 +41,27 @@ namespace PurpleBuzzProject.Areas.Admin.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Create(string Title)
+        public IActionResult Create(OurWork ourWork  )
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest("smth went wrong");
+            }
+            else
+            {
+                _context.OurWorks.Add(ourWork);
+                _context.SaveChanges();
+            }
 
-            return View();
+            //OurWork ourWorkadd = new OurWork()
+            //{
+            //    Title = Title,
+            //    ImgUrl = "img-01",
+            //    Description = Description
+            //};
+            //_context.OurWorks.Add(ourWorkadd);
+            //_context.SaveChanges();
+            return RedirectToAction(nameof(Index));
         }
     }
 }
