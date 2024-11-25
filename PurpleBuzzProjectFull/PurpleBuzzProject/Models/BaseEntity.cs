@@ -1,8 +1,7 @@
 ﻿namespace PurpleBuzzProject.Models
 {
-    public class Userr
+    public class BaseEntity
     {
-        public string Name { get; set; }
         public int Id { get; set; }
     }
 }

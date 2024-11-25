@@ -17,19 +17,20 @@ namespace PurpleBuzzProject.Areas.Admin.Controllers
 
         public  IActionResult Index()
         {
-            IEnumerable<OurWork> ourWorks =  _context.OurWorks.ToList();
-            return View(ourWorks);
+            IEnumerable<OurService> ourServices =  _context.OurServices.ToList();
+            return View(ourServices);
         }
         public IActionResult Delete(int Id)
         {
-            OurWork? deleteOurWork = _context.OurWorks.Find(Id);
+            OurService? deleteOurWork = _context.OurServices.Find(Id);
             if (deleteOurWork == null)
             {
                 return NotFound();
             }
             else
+            
             {
-                _context.OurWorks.Remove(deleteOurWork);
+                _context.OurServices.Remove(deleteOurWork);
             }
             _context.SaveChanges();
             return RedirectToAction(nameof(Index));
@@ -41,7 +42,7 @@ namespace PurpleBuzzProject.Areas.Admin.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Create(OurWork ourWork  )
+        public IActionResult Create(OurService ourService)
         {
             if (!ModelState.IsValid)
             {
@@ -49,18 +50,11 @@ namespace PurpleBuzzProject.Areas.Admin.Controllers
             }
             else
             {
-                _context.OurWorks.Add(ourWork);
+                _context.OurServices.Add(ourService);
                 _context.SaveChanges();
             }
 
-            //OurWork ourWorkadd = new OurWork()
-            //{
-            //    Title = Title,
-            //    ImgUrl = "img-01",
-            //    Description = Description
-            //};
-            //_context.OurWorks.Add(ourWorkadd);
-            //_context.SaveChanges();
+            
             return RedirectToAction(nameof(Index));
         }
     }
