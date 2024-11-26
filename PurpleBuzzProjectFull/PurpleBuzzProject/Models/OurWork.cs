@@ -14,5 +14,6 @@ namespace PurpleBuzzProject.Models
         public string ImgUrl { get; set; }
         public int OurServiceId { get; set; }
         public OurService OurService { get; set; }
+       
     }
 }

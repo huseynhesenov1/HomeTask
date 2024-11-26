@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-
+using Microsoft.EntityFrameworkCore;
 using PurpleBuzzProject.DAL;
 using PurpleBuzzProject.Models;
 
@@ -28,7 +28,6 @@ namespace PurpleBuzzProject.Areas.Admin.Controllers
                 return NotFound();
             }
             else
-            
             {
                 _context.OurServices.Remove(deleteOurWork);
             }
@@ -57,5 +56,29 @@ namespace PurpleBuzzProject.Areas.Admin.Controllers
             
             return RedirectToAction(nameof(Index));
         }
+        //burda update'in get sorgusu aparilir
+        public IActionResult Update(int Id)
+        {
+           OurService? ourService = _context.OurServices.Find(Id);
+            if (ourService == null)
+            {
+                return NotFound("No such Service");
+            }
+
+            return View(ourService);
+        }
+        [HttpPost]
+        public IActionResult Update(OurService ourservice)
+        {
+          OurService? updateOurservice = _context.OurServices.AsNoTracking().FirstOrDefault(x=>x.Id == ourservice.Id);
+            if (updateOurservice == null)
+            {
+                return NotFound("No Such Service");
+            }
+            _context.OurServices.Update(ourservice);
+            _context.SaveChanges();
+            return RedirectToAction(nameof(Index));
+        }
+
     }
 }

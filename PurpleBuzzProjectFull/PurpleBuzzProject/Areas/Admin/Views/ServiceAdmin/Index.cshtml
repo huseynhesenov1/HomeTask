@@ -6,11 +6,7 @@
 
     <!-- Page Heading -->
     <h1 class="h3 mb-2 text-gray-800">Tables</h1>
-    <p class="mb-4">
-        DataTables is a third party plugin that is used to generate the demo table below.
-        For more information about DataTables, please visit the <a target="_blank"
-                                                                   href="https://datatables.net">official DataTables documentation</a>.
-    </p>
+    
 
     <!-- DataTales Example -->
     <div class="card shadow mb-4">
@@ -53,7 +49,7 @@
                                 <td>@item.Title</td>
                                 <td>@item.Description</td>
                                 <td> <img src="~/img/@item.ImgUrl" width="80" alt="img error"/></td>
-                                <td> <a href="#" class="btn btn-success">Update</a></td>
+                                <td> <a class="btn btn-success" asp-area="Admin" asp-controller="ServiceAdmin" asp-action="Update" asp-route-id="@item.Id">Update</a></td>
                                 <td> <a class="btn btn-danger" asp-area="Admin" asp-controller="ServiceAdmin" asp-action="Delete" asp-route-Id="@item.Id">Delete</a></td>
                             </tr>
                         }

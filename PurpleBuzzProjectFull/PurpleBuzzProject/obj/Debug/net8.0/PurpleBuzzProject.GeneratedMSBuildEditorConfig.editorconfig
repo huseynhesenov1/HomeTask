@@ -38,12 +38,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3VyV29ya3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ACER/Desktop/Code Academy/PurpleBuzzProjectFull/PurpleBuzzProject/Areas/Admin/Views/OurWorks/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3VyV29ya3NcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ACER/Desktop/Code Academy/PurpleBuzzProjectFull/PurpleBuzzProject/Areas/Admin/Views/ServiceAdmin/create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZUFkbWluXGNyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ACER/Desktop/Code Academy/PurpleBuzzProjectFull/PurpleBuzzProject/Areas/Admin/Views/ServiceAdmin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/Desktop/Code Academy/PurpleBuzzProjectFull/PurpleBuzzProject/Areas/Admin/Views/ServiceAdmin/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZUFkbWluXHVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ACER/Desktop/Code Academy/PurpleBuzzProjectFull/PurpleBuzzProject/Areas/Admin/Views/Shared/_Layout.cshtml]

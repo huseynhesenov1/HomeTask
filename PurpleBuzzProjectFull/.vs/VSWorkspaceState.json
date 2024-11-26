@@ -2,10 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\PurpleBuzzProject",
+    "\\PurpleBuzzProject\\Areas",
+    "\\PurpleBuzzProject\\Areas\\Admin",
+    "\\PurpleBuzzProject\\Areas\\Admin\\Controllers",
     "\\PurpleBuzzProject\\Controllers",
     "\\PurpleBuzzProject\\Views",
     "\\PurpleBuzzProject\\Views\\Home"
   ],
-  "SelectedNode": "\\PurpleBuzzProject\\Controllers\\AboutController.cs",
+  "SelectedNode": "\\PurpleBuzzProject\\Areas\\Admin\\Controllers\\OurWorksController.cs",
   "PreviewInSolutionExplorer": false
 }
